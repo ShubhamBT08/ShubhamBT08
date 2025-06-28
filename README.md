@@ -8,21 +8,19 @@
 🚀 Started working on projects in genomics, disease prediction & DNA tools  
 
 🛠️ Skills
-- Programming: Python, R (basic), Shell scripting (beginner)
+- Programming: Java, Python(new), R (basic), Shell scripting (beginner)
 - Tools: AutoDock, BLAST, Biopython, Git, GitHub
-- Interests: Bioinformatics, Biostatistics, Molecular Docking, Drug Design
+- Interests: Bioinformatics, Biostatistics, Molecular Docking, Drug Designing, Drug Discovery and Homology Modeling 
 
-🧪 Ongoing Projects
-- DNA Sequence Analyzer 🧬
-- Cancer Marker Predictor using ML 🤖
-- Biofuel Optimization AI Project 🌿
+🧪 To Start Projects like 
+- DNA Sequence Analyzer 
 
 📫 Connect with Me at 
 - LinkedIn : www.linkedin.com/in/shubham-biotech
 - Email : shubhammahato08@gmail.com 
 
 > 💡 “Biotech + Code = Future
-> # RESEARCH, REVOLUTION, RISE 1 ! 
+> # RESEARCH, REVOLUTION, RISE  ! 
 
 <!--
 **ShubhamBT08/ShubhamBT08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

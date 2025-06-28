@@ -9,7 +9,7 @@
 
 🛠️ Skills
 - Programming: Java, Python(new), R (basic), Shell scripting (beginner)
-- Tools: AutoDock, BLAST, Biopython, Git, GitHub
+- Tools: AutoDock, Biopython, GitHub, Discovery Studio, PyMo, SaveServer, Swiss_Model, ClusPro
 - Interests: Bioinformatics, Biostatistics, Molecular Docking, Drug Designing, Drug Discovery and Homology Modeling 
 
 🧪 To Start Projects like 
